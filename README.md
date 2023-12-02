@@ -1,4 +1,4 @@
-# Gestion_hotels_par_ville
+
 # Gestion des Hôtels et Villes
 # Description du Projet
 Cette application web permet la gestion efficace des informations liées aux hôtels, en mettant l'accent sur les détails tels que le nom de l'hôtel, la ville, le numéro de téléphone et l'adresse. L'application offre également un mécanisme de filtrage pratique pour trier les hôtels par ville, facilitant ainsi la recherche pour les utilisateurs.
@@ -29,7 +29,7 @@ Clonez le référentiel sur votre machine locale.
 
 . bash
 . Copy code
-. git clone https://github.com/votre-utilisateur/le-repo.git
+. git clone https://github.com/salmachtioui/Gestion_hotels_par_ville.git
 . Déployez l'application sur votre serveur Wildfly.
 
 . Accédez à l'application via votre navigateur web préféré en utilisant l'URL appropriée.
@@ -37,7 +37,7 @@ Clonez le référentiel sur votre machine locale.
 . Commencez à gérer les informations sur les hôtels et à explorer les fonctionnalités de filtrage.
 
 # Contributeurs
-. Votre Nom - Développeur Principal
+. Salma CHTIOUI
 # Remarques
 Veuillez noter que ce projet est en cours de développement, et toutes les contributions sont les bienvenues. N'hésitez pas à signaler des problèmes ou à proposer des améliorations.
 # Screens proposées de projet :
